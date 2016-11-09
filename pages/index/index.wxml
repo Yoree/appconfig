@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <input class="search" placeholder="输入大米品牌（如 金龙鱼 中粮 茉莉香 等）"></input>
+  <button type="primary" classclass="btnSearch">查询</button>
+</view>

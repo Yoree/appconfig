@@ -1,0 +1,37 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "诚邻粮食",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "borderStyle":"white",
+    "backgroundColor":"rgba(204,204,204,1)",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "诚邻标准",
+      "iconPath":"image/indexs.png",
+      "selectedIconPath":"image/index.png"
+    }, {
+      "pagePath": "pages/knowledge/index",
+      "text": "知食库",
+      "iconPath":"image/knowls.png",
+      "selectedIconPath":"image/knowl.png"
+    },{
+      "pagePath": "pages/rice/index",
+      "text": "诚邻粮食",
+      "iconPath":"image/rices.png",
+      "selectedIconPath":"image/rice.png"
+    },{
+      "pagePath": "pages/ownCent/logs",
+      "text": "个人中心",
+      "iconPath":"image/owns.png",
+      "selectedIconPath":"image/own.png"
+    }]
+  }
+}

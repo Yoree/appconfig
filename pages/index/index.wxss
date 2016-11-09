@@ -1,0 +1,7 @@
+.search{
+  width:60%;
+  border:1px solid #ccc;
+}
+.btnSearch{
+  width:10px;
+}
